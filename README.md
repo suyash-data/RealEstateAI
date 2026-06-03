@@ -110,13 +110,17 @@ Users can enter property details and receive an estimated property value.
 
 ## 📸 Screenshots
 
-Add screenshots from:
+### Home Page
+![Home](assets/screenshots/Screenshot%202026-06-01%20122633.png)
 
-* Home Page
-* Visualizations
-* Feature Importance
-* Price Prediction
+### Visualizations
+![Visualization](assets/screenshots/Screenshot%202026-06-01%20122740.png)
 
+### Feature Importance
+![Feature Importance](assets/screenshots/Screenshot%202026-06-01%20122809.png)
+
+### Price Prediction
+![Prediction](assets/screenshots/Screenshot%202026-06-01%20122843.png)
 ---
 
 ## ▶️ Run Locally
