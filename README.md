@@ -121,6 +121,7 @@ Users can enter property details and receive an estimated property value.
 
 ### Price Prediction
 ![Prediction](assets/screenshots/Screenshot%202026-06-01%20122843.png)
+
 ---
 
 ## ▶️ Run Locally
